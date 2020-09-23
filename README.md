@@ -57,5 +57,11 @@ print(homophones)
 Returns:
 
 ```
-{'see': [['axseed', 'accede'], ['oversees', 'overseas'], ['reseed', 'recede'], ['reseeded', 'receded'], ['reseeding', 'receding'], ['see', 'c', 'cee', 'sea'], ['seed', 'cede'], ['seeder', 'cedar', 'ceder'], ['seeding', 'ceding'], ['seeds', 'cedes'], ['seel', 'ceil', 'seal'], ['seem', 'seam'], ['seemed', 'seamed'], ['seems', 'seams'], ['seen', 'scene'], ['seer', 'cere', 'sear', 'sere'], ['seers', 'sears'], ['sees', "c's", 'cees', 'seas', 'seize']]}
+{'see': [['axseed', 'accede'], ['oversees', 'overseas'], 
+['reseed', 'recede'], ['reseeded', 'receded'], ['reseeding', 'receding'], 
+['see', 'c', 'cee', 'sea'], ['seed', 'cede'], ['seeder', 'cedar', 'ceder'], 
+['seeding', 'ceding'], ['seeds', 'cedes'], ['seel', 'ceil', 'seal'], 
+['seem', 'seam'], ['seemed', 'seamed'], ['seems', 'seams'], ['seen', 'scene'], 
+['seer', 'cere', 'sear', 'sere'], ['seers', 'sears'], 
+['sees', "c's", 'cees', 'seas', 'seize']]}
 ```
